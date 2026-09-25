@@ -26,4 +26,4 @@ Secure data hiding inside images using LSB (Least Significant Bit) modification 
 ### 1. Installation
 
 ```bash
-pip install opencv-python numpy
+uv add opencv-python numpy
