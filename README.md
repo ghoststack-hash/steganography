@@ -17,7 +17,7 @@ Secure data hiding inside images using LSB (Least Significant Bit) modification 
 - `opencv-python` (`cv2`) – Image I/O and matrix operations
 - `numpy` – Fast pixel array manipulations
 - `os` – System viewer integration
-- `uv` - Package Manager
+- `uv` - Package manager
 
 ---
 
